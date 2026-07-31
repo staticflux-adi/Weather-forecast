@@ -4,6 +4,7 @@ A clean and responsive weather website that provides real-time weather updates f
 
 ## 📸 Preview
 
+Visit Site : https://staticflux-adi.github.io/Weather-forecast/
 
 
 ## ✨ Features
