@@ -2,6 +2,10 @@
 
 A clean and responsive weather website that provides real-time weather updates for any city using the OpenWeather API.
 
+## 📸 Preview
+
+
+
 ## ✨ Features
 
 - 🔍 Search weather by city name
@@ -17,11 +21,6 @@ A clean and responsive weather website that provides real-time weather updates f
 - CSS
 - JavaScript 
 - OpenWeather API
-
-## 📸 Preview
-
-
-## 🚀 Getting Started
 
 
 
